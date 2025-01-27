@@ -38,7 +38,7 @@
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/Medd988-whb/42-get_next_line_1337.git Get_next_line_1337
+git clone https://github.com/Mohaben-1/42-get_next_line_1337.git
 cd Get_next_line_1337  
 ```  
 
